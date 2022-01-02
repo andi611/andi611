@@ -15,5 +15,7 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 [personal website]: https://www.andytliu.com/
 **www.andytliu.com**
 
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andi611&count_private=true&hide_border=true&include_all_commits=true&show_icons=true)](https://www.andytliu.com/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andi611&layout=compact&langs_count=6)](https://www.andytliu.com/)
+<img  src="https://github-readme-stats.vercel.app/api?username=andi611&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andi611&layout=compact&langs_count=6&hide_title=true&hide_border=true" width="48%" >
+
+![Visitor Count](https://komarev.com/ghpvc/?username=andi611&color=grey)
