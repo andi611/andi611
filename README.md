@@ -18,4 +18,4 @@ My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl
 <img  src="https://github-readme-stats.vercel.app/api?username=andi611&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="right" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andi611&layout=compact&langs_count=6&hide_title=true&hide_border=true" width="48%" >
 
-![Visitor Count](https://komarev.com/ghpvc/?username=andi611&color=grey)
+![Visitor Count](https://komarev.com/ghpvc/?username=andi611&color=green&label=Profile+Views+Starting+at+2022/01/01)
