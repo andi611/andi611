@@ -1,9 +1,9 @@
 ### Hello 👋
 My name is [Andy T. Liu](https://www.andytliu.com/). I received my bachelor's degree in [Electrical Engineering (EE)](https://web.ee.ntu.edu.tw/eng/index.php) from National Taiwan University (NTU), Taipei, Taiwan, in 2018. I am currently working towards a Ph.D. degree with the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html), NTU, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/). I’m a member of the “Speech Processing and Machine Learning Laboratory” at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 
-My research interests include **self-supervised learning**, **unsupervised learning**, and **few-shot learning** in the speech and NLP domain. 
+**My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) in 2019 and kept developing ever since. Our S3PRL Toolkit provides an easy-to-use interface to the speech community, including all kinds of self-supervised models and downstream tasks.**
 
-My colleagues and I developed the [S3PRL toolkit](https://github.com/s3prl/s3prl), which provides an easy-to-use interface to the community, for all kinds of self-supervised models and various downstream tasks.
+My research interests include **self-supervised learning**, **unsupervised learning**, and **few-shot learning** in the speech and NLP domain. 
 
 - 👯 I’m looking to: _collaborate on more research projects!_
 - 😄 Pronouns: _He/Him_
