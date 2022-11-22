@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is [Andy T. Liu](https://www.andytliu.com/). I received my bachelor's degree in [Electrical Engineering (EE)](https://web.ee.ntu.edu.tw/eng/index.php) from National Taiwan University (NTU), Taipei, Taiwan, in 2018. I am currently working towards a Ph.D. degree with the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html), NTU, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/). I’m a member of the “Speech Processing and Machine Learning Laboratory” at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
+My name is [Andy T. Liu](https://andi611.github.io/). I received my bachelor's degree in [Electrical Engineering (EE)](https://web.ee.ntu.edu.tw/eng/index.php) from National Taiwan University (NTU), Taipei, Taiwan, in 2018. I am currently working towards a Ph.D. degree with the College of [Electrical Engineering & Computer Science (EECS)](https://www.ntu.edu.tw/english/academics/academics_electrical.html), NTU, supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/). I’m a member of the “Speech Processing and Machine Learning Laboratory” at NTU, also working with Professor [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 
 **My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) in 2019 and kept developing ever since. Our S3PRL Toolkit provides an easy-to-use interface to the speech community, including all kinds of self-supervised models and downstream tasks.**
 
@@ -12,8 +12,8 @@ My research interests include **self-supervised learning**, **unsupervised learn
 
 [<img align="left" alt="andytliu.com" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/home-outline.svg" />][personal website]
 
-[personal website]: https://www.andytliu.com/
-**www.andytliu.com**
+[personal website]: https://andi611.github.io/
+**https://andi611.github.io/**
 
 <img  src="https://github-readme-stats.vercel.app/api?username=andi611&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="right" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andi611&layout=compact&langs_count=6&hide_title=true&hide_border=true" width="48%" >
