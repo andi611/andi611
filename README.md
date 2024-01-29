@@ -9,8 +9,8 @@ My colleague [Shu-wen (Leo) Yang](https://github.com/leo19941227) and I founded 
 
 - 👯 I’m looking to: _collaborate on more research projects!_
 - 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: _I own some [pet geckos](https://www.instagram.com/smiling._.dragons/)_
-- 📫 **Visit my personal website to see more:**
+- ⚡ Fun fact: _I am also a qualified PADI Scuba diving instructor 🤿_
+- 📫 **Visit my website to see more:**
 
 [<img align="left" alt="andytliu.com" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/home-outline.svg" />][personal website]
 
